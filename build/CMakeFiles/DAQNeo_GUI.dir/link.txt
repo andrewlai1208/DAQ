@@ -1,0 +1,3 @@
+"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\DAQNeo_GUI.dir/objects.a
+C:\MinGW\bin\ar.exe qc CMakeFiles\DAQNeo_GUI.dir/objects.a @CMakeFiles\DAQNeo_GUI.dir\objects1.rsp
+C:\MinGW\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\DAQNeo_GUI.dir/objects.a -Wl,--no-whole-archive -o DAQNeo_GUI.exe -Wl,--out-implib,libDAQNeo_GUI.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\DAQNeo_GUI.dir\linkLibs.rsp

@@ -1,0 +1,68 @@
+[
+{
+  "directory": "C:/Users/user/Desktop/DAQNeo/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles\\DAQNeo_GUI.dir\\includes_CXX.rsp -g -std=gnu++11 -include C:/Users/user/Desktop/DAQNeo/mingw_time_patch.h -o CMakeFiles\\DAQNeo_GUI.dir\\main.cpp.obj -c C:\\Users\\user\\Desktop\\DAQNeo\\main.cpp",
+  "file": "C:/Users/user/Desktop/DAQNeo/main.cpp",
+  "output": "CMakeFiles/DAQNeo_GUI.dir/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Desktop/DAQNeo/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles\\DAQNeo_GUI.dir\\includes_CXX.rsp -g -std=gnu++11 -include C:/Users/user/Desktop/DAQNeo/mingw_time_patch.h -o CMakeFiles\\DAQNeo_GUI.dir\\imgui-master\\backends\\imgui_impl_glfw.cpp.obj -c C:\\Users\\user\\Desktop\\DAQNeo\\imgui-master\\backends\\imgui_impl_glfw.cpp",
+  "file": "C:/Users/user/Desktop/DAQNeo/imgui-master/backends/imgui_impl_glfw.cpp",
+  "output": "CMakeFiles/DAQNeo_GUI.dir/imgui-master/backends/imgui_impl_glfw.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Desktop/DAQNeo/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles\\DAQNeo_GUI.dir\\includes_CXX.rsp -g -std=gnu++11 -include C:/Users/user/Desktop/DAQNeo/mingw_time_patch.h -o CMakeFiles\\DAQNeo_GUI.dir\\imgui-master\\backends\\imgui_impl_opengl3.cpp.obj -c C:\\Users\\user\\Desktop\\DAQNeo\\imgui-master\\backends\\imgui_impl_opengl3.cpp",
+  "file": "C:/Users/user/Desktop/DAQNeo/imgui-master/backends/imgui_impl_opengl3.cpp",
+  "output": "CMakeFiles/DAQNeo_GUI.dir/imgui-master/backends/imgui_impl_opengl3.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Desktop/DAQNeo/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles\\DAQNeo_GUI.dir\\includes_CXX.rsp -g -std=gnu++11 -include C:/Users/user/Desktop/DAQNeo/mingw_time_patch.h -o CMakeFiles\\DAQNeo_GUI.dir\\imgui-master\\imgui.cpp.obj -c C:\\Users\\user\\Desktop\\DAQNeo\\imgui-master\\imgui.cpp",
+  "file": "C:/Users/user/Desktop/DAQNeo/imgui-master/imgui.cpp",
+  "output": "CMakeFiles/DAQNeo_GUI.dir/imgui-master/imgui.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Desktop/DAQNeo/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles\\DAQNeo_GUI.dir\\includes_CXX.rsp -g -std=gnu++11 -include C:/Users/user/Desktop/DAQNeo/mingw_time_patch.h -o CMakeFiles\\DAQNeo_GUI.dir\\imgui-master\\imgui_demo.cpp.obj -c C:\\Users\\user\\Desktop\\DAQNeo\\imgui-master\\imgui_demo.cpp",
+  "file": "C:/Users/user/Desktop/DAQNeo/imgui-master/imgui_demo.cpp",
+  "output": "CMakeFiles/DAQNeo_GUI.dir/imgui-master/imgui_demo.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Desktop/DAQNeo/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles\\DAQNeo_GUI.dir\\includes_CXX.rsp -g -std=gnu++11 -include C:/Users/user/Desktop/DAQNeo/mingw_time_patch.h -o CMakeFiles\\DAQNeo_GUI.dir\\imgui-master\\imgui_draw.cpp.obj -c C:\\Users\\user\\Desktop\\DAQNeo\\imgui-master\\imgui_draw.cpp",
+  "file": "C:/Users/user/Desktop/DAQNeo/imgui-master/imgui_draw.cpp",
+  "output": "CMakeFiles/DAQNeo_GUI.dir/imgui-master/imgui_draw.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Desktop/DAQNeo/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles\\DAQNeo_GUI.dir\\includes_CXX.rsp -g -std=gnu++11 -include C:/Users/user/Desktop/DAQNeo/mingw_time_patch.h -o CMakeFiles\\DAQNeo_GUI.dir\\imgui-master\\imgui_tables.cpp.obj -c C:\\Users\\user\\Desktop\\DAQNeo\\imgui-master\\imgui_tables.cpp",
+  "file": "C:/Users/user/Desktop/DAQNeo/imgui-master/imgui_tables.cpp",
+  "output": "CMakeFiles/DAQNeo_GUI.dir/imgui-master/imgui_tables.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Desktop/DAQNeo/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles\\DAQNeo_GUI.dir\\includes_CXX.rsp -g -std=gnu++11 -include C:/Users/user/Desktop/DAQNeo/mingw_time_patch.h -o CMakeFiles\\DAQNeo_GUI.dir\\imgui-master\\imgui_widgets.cpp.obj -c C:\\Users\\user\\Desktop\\DAQNeo\\imgui-master\\imgui_widgets.cpp",
+  "file": "C:/Users/user/Desktop/DAQNeo/imgui-master/imgui_widgets.cpp",
+  "output": "CMakeFiles/DAQNeo_GUI.dir/imgui-master/imgui_widgets.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Desktop/DAQNeo/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles\\DAQNeo_GUI.dir\\includes_CXX.rsp -g -std=gnu++11 -include C:/Users/user/Desktop/DAQNeo/mingw_time_patch.h -o CMakeFiles\\DAQNeo_GUI.dir\\implot-master\\implot.cpp.obj -c C:\\Users\\user\\Desktop\\DAQNeo\\implot-master\\implot.cpp",
+  "file": "C:/Users/user/Desktop/DAQNeo/implot-master/implot.cpp",
+  "output": "CMakeFiles/DAQNeo_GUI.dir/implot-master/implot.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Desktop/DAQNeo/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles\\DAQNeo_GUI.dir\\includes_CXX.rsp -g -std=gnu++11 -include C:/Users/user/Desktop/DAQNeo/mingw_time_patch.h -o CMakeFiles\\DAQNeo_GUI.dir\\implot-master\\implot_demo.cpp.obj -c C:\\Users\\user\\Desktop\\DAQNeo\\implot-master\\implot_demo.cpp",
+  "file": "C:/Users/user/Desktop/DAQNeo/implot-master/implot_demo.cpp",
+  "output": "CMakeFiles/DAQNeo_GUI.dir/implot-master/implot_demo.cpp.obj"
+},
+{
+  "directory": "C:/Users/user/Desktop/DAQNeo/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles\\DAQNeo_GUI.dir\\includes_CXX.rsp -g -std=gnu++11 -include C:/Users/user/Desktop/DAQNeo/mingw_time_patch.h -o CMakeFiles\\DAQNeo_GUI.dir\\implot-master\\implot_items.cpp.obj -c C:\\Users\\user\\Desktop\\DAQNeo\\implot-master\\implot_items.cpp",
+  "file": "C:/Users/user/Desktop/DAQNeo/implot-master/implot_items.cpp",
+  "output": "CMakeFiles/DAQNeo_GUI.dir/implot-master/implot_items.cpp.obj"
+}
+]
